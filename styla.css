@@ -141,7 +141,7 @@ p{
 
     body{
         height: 100%;
-        background-image: -webkit-linear-gradient(80deg,#c278b6 60%,#9792c5 30%);
+        background-image: -webkit-linear-gradient(50deg,rgb(60, 177, 245) 50%,white 50%,rgb(60, 177, 245));
         background-repeat: no-repeat;
         background-size: 100% 100%;
         
