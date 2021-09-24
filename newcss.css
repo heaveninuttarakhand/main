@@ -1,0 +1,29 @@
+footer{
+	padding: 5%;
+	background-color: black;
+	color: #fff;
+}
+.font{
+ 	padding-left: -20px;
+ 	text-decoration:none;
+ 	margin-top: 3%;
+ }
+ .font a{
+ 	text-decoration-line: none;
+ 	margin: 20px;
+ 	font-size: 40px;
+ }
+ .font a:hover{
+ 	background: #fff;
+ }
+ #copy{
+ 	background: white;
+ 	height:60px; 
+ 	padding-left: 32%;
+ }
+ #hover:hover{
+ 	background-color: rgb(20,34,23);
+ }
+ .fab{
+	 border-radius: 20%;
+ }
